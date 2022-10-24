@@ -1,4 +1,5 @@
-Delivery de Pizzas.
+
+# Delivery de Pizzas.
 
 Esse projeto é sobre um delivery de pizzas onde o foco principal é praticar as habilidades em front-end e também lógica de programação.
 
